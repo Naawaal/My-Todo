@@ -1,6 +1,6 @@
 # my_todo
 
-A new Flutter project.
+My Todo app is a task management application that helps users organize and prioritize their tasks and to-do lists. It offers features such as creating new tasks, editing and deleting existing tasks, setting reminders and deadlines, and categorizing tasks into different projects. With My Todo, users can stay on top of their daily to-dos, set goals and deadlines, and ensure nothing falls through the cracks. It's designed to provide an easy, efficient and user-friendly way of keeping track of tasks.
 
 ## Getting Started
 
